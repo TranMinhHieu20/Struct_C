@@ -71,6 +71,7 @@ void inDanhSachTheoNamXB(struct Sach *danhSach, int n, int namXBCanTim){
 } 
 
 int main(){
+	
 	struct Sach *danhSach;
 	int n;
 	printf("Nhap so luong sach: ");
