@@ -86,7 +86,7 @@ int main(){
 	printf("Nam xuat ban can tim la: "); scanf("%d", &namXBCanTim);
 	
 	inDanhSachTheoNamXB(danhSach, n, namXBCanTim); 
-	
+	// tran minh hieu
 	
 	return 0; 
 } 
