@@ -87,6 +87,6 @@ int main(){
 	
 	inDanhSachTheoNamXB(danhSach, n, namXBCanTim); 
 	// tran minh hieu
-	
+	// ok ok
 	return 0; 
 } 
